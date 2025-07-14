@@ -6,7 +6,6 @@ const Home = () => {
         Created and maintained reporting dashboards to monitor warehouse operations, including inventory levels, order status, and shipment tracking. Improved visibility and decision-making by providing accurate, real-time data to management.
         You can click the following link to find the prototype Warehouse Dashboard Prototype.
       <br></br>
-      <br></br>
       <strong>Warehouse Dashboard Prototype: </strong>
       <a href="https://cesargomezs.github.io/V2test/" target="_blank" className="myButton">Here</a>
       </p>
