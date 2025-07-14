@@ -13,7 +13,7 @@ const Home = () => {
       Developed a prototype for a location-based legal services app that helps users find nearby lawyers by practice area. The system includes search by geolocation, interactive maps, and lawyer profile listings with contact options.  <br></br>
       <br></br>
       <strong>Lawyers Prototype:</strong>
-      <a href="https://cesargomezs.github.io/SampleLawyers/" target="_blank" className="myButton">Here</a>
+      <a href="https://cesargomezs.github.io/SampleLawyers/ " target="_blank" className="myButton">Here</a>
       </p>
     </section>
   );
