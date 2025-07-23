@@ -13,7 +13,10 @@ const Contact = () => {
         Saturday — 9:00 AM to 1:00 PM Sunday — Closed
         <br></br>
         🌐 Website: www.yourwarehouse.com
-      </p>
+        <br></br>
+        <br></br>
+        <div className="qrcontact"><img src="../descarga.png"  /></div>
+        </p>
       <br></br>
     </section>
   );
