@@ -15,7 +15,7 @@ const Contact = () => {
         🌐 Website: www.yourwarehouse.com
         <br></br>
         <br></br>
-        <div className="qrcontact"><img src="../descarga.png"  /></div>
+        <div className="qrcontact"><img src="../../descarga.png"  /></div>
         </p>
       <br></br>
     </section>
